@@ -6,5 +6,7 @@ Servers/
 .project
 .settings
 bin/
+.recommenders/
+
 
 
