@@ -1,0 +1,10 @@
+/.metadata/
+RemoteSystemsTempFiles/
+Servers/
+//.gitignore
+.classpath
+.project
+.settings
+bin/
+
+
